@@ -1,0 +1,910 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d891fddeac0e8cbb1cf73383d80c544/firebase-core-10.2.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/30660e5942cbace28826029db5c846d7/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/65a2ffd0d09fe064493cf65c763189ad/firebase-ui-database-0.4.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/04cd695ecbeca34666ecc20b7e69730c/recyclerview-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/74cff1596f76c4d78cecfe94aae6e8ef/play-services-10.2.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/45f15d2e457e37ab317da05df8ab8ae3/play-services-cast-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ecd5697abffec98f3beefc68a43e15d8/mediarouter-v7-24.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7afe38831c29e89234bc61440d377878/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8b93b116ddaae1412c3b2264bd56acca/firebase-auth-10.2.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.firebase:firebase-database:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5de89690fd915a701b4e2022908adae4/firebase-database-10.2.0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73963ea797db658a75cf1bbe3487551f/firebase-config-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/87b7a345193874c92ec792fe7681dd99/firebase-crash-10.2.0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fe3a9da13582613474410a0f260b3cf4/firebase-storage-10.2.0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-invites:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2777c67560c40247a9b6d66c604fd6c8/firebase-invites-10.2.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6fe8e1781d1d3669d09befd32368a792/firebase-ads-10.2.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73365bfb0eabf0f24deffd7840271c5d/play-services-tagmanager-10.2.0/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/c1a5108c5a976d96cb23f8d4c3eb6177/firebase-database-connection-10.2.0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ce546b11f3e7425387ac04640c7019e8/firebase-appindexing-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d04faffc9a142fa5d1131a943bb7d177/play-services-ads-10.2.0/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0cdc4a2e0e8906d78919f016b7ae1602/play-services-tagmanager-v4-impl-10.2.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/145ea5f547ce27eca54e9b87274e294e/play-services-auth-base-10.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/86345024d6df0fdf7c071fe0f5641fe4/play-services-clearcut-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/41ff74e6befc196d9deec9c3ce71a897/play-services-awareness-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b99a8e4e8ca25f2295294f6b39ccd65e/play-services-games-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/27a3ebdc6d897f2f3344f3c158660261/play-services-drive-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2dca61eb37ef49d3bb4bf3bb59688d75/play-services-fitness-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/746e46be20c0974e4c351817087ce969/play-services-wallet-10.2.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4601dfa65ed962b65c6a48538bf09a9c/play-services-identity-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/3cdcc721ae67e0f56bbfb0cf09d7593d/play-services-instantapps-10.2.0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7e470beeef25044dcdf58802ff781f8c/play-services-location-10.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e1a326d37c999c261ff6202537c15357/play-services-places-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6bdc6903dabb6b3c08ac46d866c64a4e/play-services-nearby-10.2.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b01f67a83e65408e287639ec05ca2bd/play-services-panorama-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0a90fb0787593e4370b6ea4cc69a0b58/play-services-plus-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/35210f26b97689bcb4eb17832a8c48e5/play-services-safetynet-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/43e12b90337e2c0295cfb2a0c2c05891/play-services-vision-10.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b02f7514e3abc0dcd5bbb0dc478d89e/play-services-wearable-10.2.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a9c99d65f079418284348ee3b72cb265/firebase-storage-common-10.2.0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a0e93f0e6f405f184d66aa19421edd75/play-services-gass-10.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/de297a0d4bbced8524365be98b065ff9/play-services-tasks-10.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d0bdc0bd1f4f0e3b5bb84e03f51560c/play-services-basement-10.2.0/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/704c2273c03ddc31cb1cad0f39359f36/transition-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:palette-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/516f62ff43cf8ce21c6e844c64d20645/palette-v7-24.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d2e80a16d24150d03485ccab4ea3fa4c/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/bd8b46df181aa6ba49025eda6dbbd41a/com.amulyakhare.textdrawable-1.0.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ab891400addcbd9323c90d604badd63c/constraint-layout-1.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0b5c237e4be83545d7231a32d2e63bb3/circleimageview-3.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/592c1061d5012dc8435cae8127e4724f/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/52c1aa4746f58ac51cae6ae1092681e6/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/732b50c7a97f72abaced800a7534dacd/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d11aca270f5e0c6af1bbefb632191897/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e457f132eda8abc869564e26ea23d516/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/900fbbd2d52cd40c8292c146521580e1/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a2f9df65d7fd1d45fd3f8c71e804c1c2/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:1-96:12
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:2:11-69
+permission#com.rotnocse.curehealth.permission.MAPS_RECEIVE
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:5:5-7:47
+	android:protectionLevel
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:7:9-44
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:6:9-71
+uses-permission#com.cbitss.careforu.permission.MAPS_RECEIVE
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:9:5-83
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:9:22-80
+uses-permission#android.permission.INTERNET
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/65a2ffd0d09fe064493cf65c763189ad/firebase-ui-database-0.4.0/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/65a2ffd0d09fe064493cf65c763189ad/firebase-ui-database-0.4.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/87b7a345193874c92ec792fe7681dd99/firebase-crash-10.2.0/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/87b7a345193874c92ec792fe7681dd99/firebase-crash-10.2.0/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:12:5-98
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:12:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:15:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6bdc6903dabb6b3c08ac46d866c64a4e/play-services-nearby-10.2.0/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6bdc6903dabb6b3c08ac46d866c64a4e/play-services-nearby-10.2.0/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:16:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:17:22-70
+uses-feature#0x00020000
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:19:5-21:35
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:21:5-77
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:20:9-41
+	android:required
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:21:9-32
+application
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:23:5-94:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d891fddeac0e8cbb1cf73383d80c544/firebase-core-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d891fddeac0e8cbb1cf73383d80c544/firebase-core-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/04cd695ecbeca34666ecc20b7e69730c/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/04cd695ecbeca34666ecc20b7e69730c/recyclerview-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/74cff1596f76c4d78cecfe94aae6e8ef/play-services-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/74cff1596f76c4d78cecfe94aae6e8ef/play-services-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/45f15d2e457e37ab317da05df8ab8ae3/play-services-cast-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/45f15d2e457e37ab317da05df8ab8ae3/play-services-cast-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ecd5697abffec98f3beefc68a43e15d8/mediarouter-v7-24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ecd5697abffec98f3beefc68a43e15d8/mediarouter-v7-24.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7afe38831c29e89234bc61440d377878/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7afe38831c29e89234bc61440d377878/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8b93b116ddaae1412c3b2264bd56acca/firebase-auth-10.2.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8b93b116ddaae1412c3b2264bd56acca/firebase-auth-10.2.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73963ea797db658a75cf1bbe3487551f/firebase-config-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73963ea797db658a75cf1bbe3487551f/firebase-config-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/87b7a345193874c92ec792fe7681dd99/firebase-crash-10.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/87b7a345193874c92ec792fe7681dd99/firebase-crash-10.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-invites:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2777c67560c40247a9b6d66c604fd6c8/firebase-invites-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-invites:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2777c67560c40247a9b6d66c604fd6c8/firebase-invites-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6fe8e1781d1d3669d09befd32368a792/firebase-ads-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6fe8e1781d1d3669d09befd32368a792/firebase-ads-10.2.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ce546b11f3e7425387ac04640c7019e8/firebase-appindexing-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ce546b11f3e7425387ac04640c7019e8/firebase-appindexing-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0cdc4a2e0e8906d78919f016b7ae1602/play-services-tagmanager-v4-impl-10.2.0/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0cdc4a2e0e8906d78919f016b7ae1602/play-services-tagmanager-v4-impl-10.2.0/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/86345024d6df0fdf7c071fe0f5641fe4/play-services-clearcut-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/86345024d6df0fdf7c071fe0f5641fe4/play-services-clearcut-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/41ff74e6befc196d9deec9c3ce71a897/play-services-awareness-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/41ff74e6befc196d9deec9c3ce71a897/play-services-awareness-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b99a8e4e8ca25f2295294f6b39ccd65e/play-services-games-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b99a8e4e8ca25f2295294f6b39ccd65e/play-services-games-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/27a3ebdc6d897f2f3344f3c158660261/play-services-drive-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/27a3ebdc6d897f2f3344f3c158660261/play-services-drive-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2dca61eb37ef49d3bb4bf3bb59688d75/play-services-fitness-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2dca61eb37ef49d3bb4bf3bb59688d75/play-services-fitness-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4601dfa65ed962b65c6a48538bf09a9c/play-services-identity-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4601dfa65ed962b65c6a48538bf09a9c/play-services-identity-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7e470beeef25044dcdf58802ff781f8c/play-services-location-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7e470beeef25044dcdf58802ff781f8c/play-services-location-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e1a326d37c999c261ff6202537c15357/play-services-places-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e1a326d37c999c261ff6202537c15357/play-services-places-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6bdc6903dabb6b3c08ac46d866c64a4e/play-services-nearby-10.2.0/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6bdc6903dabb6b3c08ac46d866c64a4e/play-services-nearby-10.2.0/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b01f67a83e65408e287639ec05ca2bd/play-services-panorama-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b01f67a83e65408e287639ec05ca2bd/play-services-panorama-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0a90fb0787593e4370b6ea4cc69a0b58/play-services-plus-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0a90fb0787593e4370b6ea4cc69a0b58/play-services-plus-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/35210f26b97689bcb4eb17832a8c48e5/play-services-safetynet-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/35210f26b97689bcb4eb17832a8c48e5/play-services-safetynet-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/43e12b90337e2c0295cfb2a0c2c05891/play-services-vision-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/43e12b90337e2c0295cfb2a0c2c05891/play-services-vision-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b02f7514e3abc0dcd5bbb0dc478d89e/play-services-wearable-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b02f7514e3abc0dcd5bbb0dc478d89e/play-services-wearable-10.2.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a0e93f0e6f405f184d66aa19421edd75/play-services-gass-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a0e93f0e6f405f184d66aa19421edd75/play-services-gass-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/de297a0d4bbced8524365be98b065ff9/play-services-tasks-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/de297a0d4bbced8524365be98b065ff9/play-services-tasks-10.2.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d0bdc0bd1f4f0e3b5bb84e03f51560c/play-services-basement-10.2.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d0bdc0bd1f4f0e3b5bb84e03f51560c/play-services-basement-10.2.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/704c2273c03ddc31cb1cad0f39359f36/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/704c2273c03ddc31cb1cad0f39359f36/transition-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/516f62ff43cf8ce21c6e844c64d20645/palette-v7-24.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/516f62ff43cf8ce21c6e844c64d20645/palette-v7-24.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d2e80a16d24150d03485ccab4ea3fa4c/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d2e80a16d24150d03485ccab4ea3fa4c/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/bd8b46df181aa6ba49025eda6dbbd41a/com.amulyakhare.textdrawable-1.0.1/AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/bd8b46df181aa6ba49025eda6dbbd41a/com.amulyakhare.textdrawable-1.0.1/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ab891400addcbd9323c90d604badd63c/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ab891400addcbd9323c90d604badd63c/constraint-layout-1.0.2/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0b5c237e4be83545d7231a32d2e63bb3/circleimageview-3.0.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0b5c237e4be83545d7231a32d2e63bb3/circleimageview-3.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/592c1061d5012dc8435cae8127e4724f/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/592c1061d5012dc8435cae8127e4724f/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/52c1aa4746f58ac51cae6ae1092681e6/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/52c1aa4746f58ac51cae6ae1092681e6/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/732b50c7a97f72abaced800a7534dacd/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/732b50c7a97f72abaced800a7534dacd/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d11aca270f5e0c6af1bbefb632191897/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d11aca270f5e0c6af1bbefb632191897/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e457f132eda8abc869564e26ea23d516/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e457f132eda8abc869564e26ea23d516/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/900fbbd2d52cd40c8292c146521580e1/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/900fbbd2d52cd40c8292c146521580e1/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a2f9df65d7fd1d45fd3f8c71e804c1c2/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a2f9df65d7fd1d45fd3f8c71e804c1c2/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:28:9-40
+activity#com.rotnocse.curehealth.doctor.NeedDoctor
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:29:9-64
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:29:19-52
+activity#com.rotnocse.curehealth.doctor.DoctorProfile
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:30:9-58
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:30:19-55
+activity#com.rotnocse.curehealth.doctor.DoctorForm
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:31:9-55
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:31:19-52
+activity#com.rotnocse.curehealth.DoctorActivity
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:32:19-49
+activity#com.rotnocse.curehealth.donor.Information
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:33:9-55
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:33:19-52
+activity#com.rotnocse.curehealth.DonorActivity
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:34:9-51
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:34:19-48
+activity#com.rotnocse.curehealth.donor.DonorProfile
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:35:9-56
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:35:19-53
+activity#com.rotnocse.curehealth.donor.NeedBlood
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:36:9-53
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:36:19-50
+activity#com.rotnocse.curehealth.donor.DonorForm
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:37:9-53
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:37:19-50
+activity#com.rotnocse.curehealth.healthcalculator.HeartRatesActivity
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:38:9-73
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:38:19-70
+activity#com.rotnocse.curehealth.healthcalculator.HealthTipActivity
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:39:19-69
+activity#com.rotnocse.curehealth.healthcalculator.BMIActivity
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:40:9-66
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:40:19-63
+activity#com.rotnocse.curehealth.healthcalculator.Dashboard
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:41:9-64
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:41:19-61
+activity#com.rotnocse.curehealth.firstaid.AssessmentInfoBleeding
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:42:9-69
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:42:19-66
+activity#com.rotnocse.curehealth.firstaid.main
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:43:9-51
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:43:19-48
+activity#com.rotnocse.curehealth.firstaid.MainPage
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:44:9-55
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:44:19-52
+activity#com.rotnocse.curehealth.Splash
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:45:9-54:20
+	android:label
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:47:13-45
+	android:theme
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:48:13-69
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:46:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:52:27-74
+activity#com.rotnocse.curehealth.MainActivity
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:55:9-58:72
+	android:configChanges
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:57:13-74
+	android:theme
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:58:13-69
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:56:13-41
+receiver#com.rotnocse.curehealth.AlarmReceiver
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:64:9-70:20
+	android:enabled
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:66:13-35
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:65:13-42
+intent-filter#action:name:com.cbitss.careforu.BroadcastReceiver
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:67:13-69:29
+	android:priority
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:67:28-48
+action#com.cbitss.careforu.BroadcastReceiver
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:68:17-80
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:68:25-77
+activity#com.rotnocse.curehealth.MedRemInfo
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:72:9-74:72
+	android:theme
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:74:13-69
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:73:13-39
+activity#com.rotnocse.curehealth.AddReminder
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:75:9-77:72
+	android:theme
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:77:13-69
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:76:13-40
+meta-data#com.google.android.gms.version
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:79:9-81:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d0bdc0bd1f4f0e3b5bb84e03f51560c/play-services-basement-10.2.0/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d0bdc0bd1f4f0e3b5bb84e03f51560c/play-services-basement-10.2.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:81:13-66
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:80:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:86:9-88:71
+	android:value
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:88:13-68
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:87:13-58
+activity#com.rotnocse.curehealth.AlarmActivity
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:90:9-92:73
+	android:theme
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:92:13-70
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:91:13-42
+activity#com.rotnocse.curehealth.MedInfo
+ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:93:9-45
+	android:name
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:93:19-42
+uses-sdk
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d891fddeac0e8cbb1cf73383d80c544/firebase-core-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d891fddeac0e8cbb1cf73383d80c544/firebase-core-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/30660e5942cbace28826029db5c846d7/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/30660e5942cbace28826029db5c846d7/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/65a2ffd0d09fe064493cf65c763189ad/firebase-ui-database-0.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:0.4.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/65a2ffd0d09fe064493cf65c763189ad/firebase-ui-database-0.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/04cd695ecbeca34666ecc20b7e69730c/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/04cd695ecbeca34666ecc20b7e69730c/recyclerview-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/74cff1596f76c4d78cecfe94aae6e8ef/play-services-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/74cff1596f76c4d78cecfe94aae6e8ef/play-services-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/45f15d2e457e37ab317da05df8ab8ae3/play-services-cast-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/45f15d2e457e37ab317da05df8ab8ae3/play-services-cast-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ecd5697abffec98f3beefc68a43e15d8/mediarouter-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ecd5697abffec98f3beefc68a43e15d8/mediarouter-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7afe38831c29e89234bc61440d377878/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7afe38831c29e89234bc61440d377878/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8b93b116ddaae1412c3b2264bd56acca/firebase-auth-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8b93b116ddaae1412c3b2264bd56acca/firebase-auth-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5de89690fd915a701b4e2022908adae4/firebase-database-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5de89690fd915a701b4e2022908adae4/firebase-database-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73963ea797db658a75cf1bbe3487551f/firebase-config-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73963ea797db658a75cf1bbe3487551f/firebase-config-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/87b7a345193874c92ec792fe7681dd99/firebase-crash-10.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/87b7a345193874c92ec792fe7681dd99/firebase-crash-10.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fe3a9da13582613474410a0f260b3cf4/firebase-storage-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fe3a9da13582613474410a0f260b3cf4/firebase-storage-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-invites:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2777c67560c40247a9b6d66c604fd6c8/firebase-invites-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-invites:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2777c67560c40247a9b6d66c604fd6c8/firebase-invites-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6fe8e1781d1d3669d09befd32368a792/firebase-ads-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6fe8e1781d1d3669d09befd32368a792/firebase-ads-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73365bfb0eabf0f24deffd7840271c5d/play-services-tagmanager-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73365bfb0eabf0f24deffd7840271c5d/play-services-tagmanager-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/c1a5108c5a976d96cb23f8d4c3eb6177/firebase-database-connection-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/c1a5108c5a976d96cb23f8d4c3eb6177/firebase-database-connection-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ce546b11f3e7425387ac04640c7019e8/firebase-appindexing-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ce546b11f3e7425387ac04640c7019e8/firebase-appindexing-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d04faffc9a142fa5d1131a943bb7d177/play-services-ads-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d04faffc9a142fa5d1131a943bb7d177/play-services-ads-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0cdc4a2e0e8906d78919f016b7ae1602/play-services-tagmanager-v4-impl-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0cdc4a2e0e8906d78919f016b7ae1602/play-services-tagmanager-v4-impl-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/145ea5f547ce27eca54e9b87274e294e/play-services-auth-base-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/145ea5f547ce27eca54e9b87274e294e/play-services-auth-base-10.2.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/86345024d6df0fdf7c071fe0f5641fe4/play-services-clearcut-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/86345024d6df0fdf7c071fe0f5641fe4/play-services-clearcut-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/41ff74e6befc196d9deec9c3ce71a897/play-services-awareness-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/41ff74e6befc196d9deec9c3ce71a897/play-services-awareness-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b99a8e4e8ca25f2295294f6b39ccd65e/play-services-games-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b99a8e4e8ca25f2295294f6b39ccd65e/play-services-games-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/27a3ebdc6d897f2f3344f3c158660261/play-services-drive-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/27a3ebdc6d897f2f3344f3c158660261/play-services-drive-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2dca61eb37ef49d3bb4bf3bb59688d75/play-services-fitness-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/2dca61eb37ef49d3bb4bf3bb59688d75/play-services-fitness-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/746e46be20c0974e4c351817087ce969/play-services-wallet-10.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/746e46be20c0974e4c351817087ce969/play-services-wallet-10.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4601dfa65ed962b65c6a48538bf09a9c/play-services-identity-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4601dfa65ed962b65c6a48538bf09a9c/play-services-identity-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/3cdcc721ae67e0f56bbfb0cf09d7593d/play-services-instantapps-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/3cdcc721ae67e0f56bbfb0cf09d7593d/play-services-instantapps-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7e470beeef25044dcdf58802ff781f8c/play-services-location-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7e470beeef25044dcdf58802ff781f8c/play-services-location-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e1a326d37c999c261ff6202537c15357/play-services-places-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e1a326d37c999c261ff6202537c15357/play-services-places-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/fa6410ae553a98786438999469be4ec8/play-services-maps-10.2.0/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6bdc6903dabb6b3c08ac46d866c64a4e/play-services-nearby-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/6bdc6903dabb6b3c08ac46d866c64a4e/play-services-nearby-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b01f67a83e65408e287639ec05ca2bd/play-services-panorama-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b01f67a83e65408e287639ec05ca2bd/play-services-panorama-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0a90fb0787593e4370b6ea4cc69a0b58/play-services-plus-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0a90fb0787593e4370b6ea4cc69a0b58/play-services-plus-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/35210f26b97689bcb4eb17832a8c48e5/play-services-safetynet-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/35210f26b97689bcb4eb17832a8c48e5/play-services-safetynet-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/43e12b90337e2c0295cfb2a0c2c05891/play-services-vision-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/43e12b90337e2c0295cfb2a0c2c05891/play-services-vision-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b02f7514e3abc0dcd5bbb0dc478d89e/play-services-wearable-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7b02f7514e3abc0dcd5bbb0dc478d89e/play-services-wearable-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a9c99d65f079418284348ee3b72cb265/firebase-storage-common-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a9c99d65f079418284348ee3b72cb265/firebase-storage-common-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a0e93f0e6f405f184d66aa19421edd75/play-services-gass-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a0e93f0e6f405f184d66aa19421edd75/play-services-gass-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/de297a0d4bbced8524365be98b065ff9/play-services-tasks-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/de297a0d4bbced8524365be98b065ff9/play-services-tasks-10.2.0/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d0bdc0bd1f4f0e3b5bb84e03f51560c/play-services-basement-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d0bdc0bd1f4f0e3b5bb84e03f51560c/play-services-basement-10.2.0/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/704c2273c03ddc31cb1cad0f39359f36/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/704c2273c03ddc31cb1cad0f39359f36/transition-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/516f62ff43cf8ce21c6e844c64d20645/palette-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/516f62ff43cf8ce21c6e844c64d20645/palette-v7-24.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d2e80a16d24150d03485ccab4ea3fa4c/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d2e80a16d24150d03485ccab4ea3fa4c/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/bd8b46df181aa6ba49025eda6dbbd41a/com.amulyakhare.textdrawable-1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/bd8b46df181aa6ba49025eda6dbbd41a/com.amulyakhare.textdrawable-1.0.1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ab891400addcbd9323c90d604badd63c/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ab891400addcbd9323c90d604badd63c/constraint-layout-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0b5c237e4be83545d7231a32d2e63bb3/circleimageview-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0b5c237e4be83545d7231a32d2e63bb3/circleimageview-3.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/592c1061d5012dc8435cae8127e4724f/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/592c1061d5012dc8435cae8127e4724f/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/52c1aa4746f58ac51cae6ae1092681e6/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/52c1aa4746f58ac51cae6ae1092681e6/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/732b50c7a97f72abaced800a7534dacd/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/732b50c7a97f72abaced800a7534dacd/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d11aca270f5e0c6af1bbefb632191897/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d11aca270f5e0c6af1bbefb632191897/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e457f132eda8abc869564e26ea23d516/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e457f132eda8abc869564e26ea23d516/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/900fbbd2d52cd40c8292c146521580e1/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/900fbbd2d52cd40c8292c146521580e1/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a2f9df65d7fd1d45fd3f8c71e804c1c2/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a2f9df65d7fd1d45fd3f8c71e804c1c2/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+		ADDED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+		INJECTED from /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/99fba75214f32b525d5e14d525d0e957/design-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/04cd695ecbeca34666ecc20b7e69730c/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/04cd695ecbeca34666ecc20b7e69730c/recyclerview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7afe38831c29e89234bc61440d377878/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7afe38831c29e89234bc61440d377878/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/704c2273c03ddc31cb1cad0f39359f36/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/704c2273c03ddc31cb1cad0f39359f36/transition-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d2e80a16d24150d03485ccab4ea3fa4c/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d2e80a16d24150d03485ccab4ea3fa4c/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/592c1061d5012dc8435cae8127e4724f/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/592c1061d5012dc8435cae8127e4724f/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/52c1aa4746f58ac51cae6ae1092681e6/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/52c1aa4746f58ac51cae6ae1092681e6/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/732b50c7a97f72abaced800a7534dacd/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/732b50c7a97f72abaced800a7534dacd/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d11aca270f5e0c6af1bbefb632191897/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/d11aca270f5e0c6af1bbefb632191897/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e457f132eda8abc869564e26ea23d516/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e457f132eda8abc869564e26ea23d516/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/900fbbd2d52cd40c8292c146521580e1/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/900fbbd2d52cd40c8292c146521580e1/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a2f9df65d7fd1d45fd3f8c71e804c1c2/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/a2f9df65d7fd1d45fd3f8c71e804c1c2/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:24:13-51
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:18-63
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.rotnocse.curehealth
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:30:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/126a873540ab3c08b78e521ca56d2259/play-services-analytics-10.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/e545ceb5b9534245e1b8cdcf35c92b09/play-services-analytics-impl-10.2.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/58502c95be9e541c6cfbe53141b409a3/firebase-analytics-impl-10.2.0/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/73649f276179e08c181ec73062f02a61/play-services-gcm-10.2.0/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0d05d4dee0a35e5e606c19d3e144befa/play-services-iid-10.2.0/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:17-71
+permission#com.rotnocse.curehealth.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:26:22-76
+uses-permission#com.rotnocse.curehealth.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:31:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.rotnocse.curehealth
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:34:27-58
+category#com.rotnocse.curehealth
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:44:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:26:13-58

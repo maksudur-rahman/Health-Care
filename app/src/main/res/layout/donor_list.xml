@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60sp"
+        android:background="@drawable/list_background"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_margin="10dp"
+
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight=".25"
+            android:background="@drawable/blood_drop"
+            android:textColor="@color/Black"></ImageView>
+        <TextView
+            android:id="@+id/nameTV"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Maksudur Rahman Rotno"
+            android:textColor="@color/Black"
+            android:gravity="center"
+            ></TextView>
+        <TextView
+            android:id="@+id/phoneTV"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="+8801762040471"
+            android:textColor="@color/Black"
+            android:gravity="center"
+            ></TextView>
+
+    </LinearLayout>
+
+</LinearLayout>

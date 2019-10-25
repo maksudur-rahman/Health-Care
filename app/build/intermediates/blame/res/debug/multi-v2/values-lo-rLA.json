@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml",
+            "map": [
+                {
+                    "source": "/home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ecd5697abffec98f3beefc68a43e15d8/mediarouter-v7-24.0.0/res/values-lo-rLA/values-lo-rLA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,258,343,440,543,637,732,831,923,1028,1146,1235,1317,1408,1493",
+                        "endColumns": "100,101,84,96,102,93,94,98,91,104,117,88,81,90,84,93",
+                        "endOffsets": "151,253,338,435,538,632,727,826,918,1023,1141,1230,1312,1403,1488,1582"
+                    }
+                }
+            ]
+        }
+    ]
+}

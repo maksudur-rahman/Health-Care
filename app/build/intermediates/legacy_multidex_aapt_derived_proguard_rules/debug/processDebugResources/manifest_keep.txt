@@ -1,0 +1,2 @@
+# Referenced at /home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:38
+-keep class android.support.multidex.MultiDexApplication { <init>(); }

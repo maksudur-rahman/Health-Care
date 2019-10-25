@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml",
+            "map": [
+                {
+                    "source": "/home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/ecd5697abffec98f3beefc68a43e15d8/mediarouter-v7-24.0.0/res/values-si-rLK/values-si-rLK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,247,328,421,519,615,710,807,903,1019,1126,1218,1306,1404,1491",
+                        "endColumns": "100,90,80,92,97,95,94,96,95,115,106,91,87,97,86,91",
+                        "endOffsets": "151,242,323,416,514,610,705,802,898,1014,1121,1213,1301,1399,1486,1578"
+                    }
+                }
+            ]
+        }
+    ]
+}

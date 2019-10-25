@@ -1,0 +1,460 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rotnocse.curehealth"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml
+10
+11    <permission
+11-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:5:5-7:47
+12        android:name="com.rotnocse.curehealth.permission.MAPS_RECEIVE"
+12-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:6:9-71
+13        android:protectionLevel="signature" />
+13-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:7:9-44
+14
+15    <uses-permission android:name="com.cbitss.careforu.permission.MAPS_RECEIVE" />
+15-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:9:5-83
+15-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:9:22-80
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:10:5-67
+16-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:10:22-64
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:11:5-81
+17-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:11:22-78
+18    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+18-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:12:5-98
+18-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:12:22-95
+19    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+19-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:13:5-81
+19-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:13:22-78
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:14:5-79
+20-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:14:22-76
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:15:5-79
+21-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:15:22-76
+22    <uses-permission android:name="android.permission.READ_CALENDAR" />
+22-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:16:5-72
+22-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:16:22-69
+23    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+23-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:17:5-73
+23-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:17:22-70
+24
+25    <uses-feature
+25-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:19:5-21:35
+26        android:glEsVersion="0x00020000"
+26-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:20:9-41
+27        android:required="true" />
+27-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:21:9-32
+28
+29    <uses-permission android:name="android.permission.WAKE_LOCK" />
+29-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:22:5-67
+29-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:22:22-65
+30    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+30-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:22:5-81
+30-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:22:22-79
+31
+32    <permission
+32-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:5-109
+33        android:name="com.rotnocse.curehealth.permission.C2D_MESSAGE"
+33-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:17-71
+34        android:protectionLevel="signature" />
+34-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:24:72-107
+35
+36    <uses-permission android:name="com.rotnocse.curehealth.permission.C2D_MESSAGE" />
+36-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:26:5-78
+36-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:26:22-76
+37
+38    <application
+38-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:23:5-94:19
+39        android:name="android.support.multidex.MultiDexApplication"
+40        android:allowBackup="true"
+40-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:24:9-35
+41        android:debuggable="true"
+42        android:icon="@mipmap/ic_launcher"
+42-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:25:9-43
+43        android:label="@string/app_name"
+43-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:26:9-41
+44        android:supportsRtl="true"
+44-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:27:9-35
+45        android:testOnly="true"
+46        android:theme="@style/AppTheme" >
+46-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:28:9-40
+47        <activity android:name="com.rotnocse.curehealth.doctor.NeedDoctor" />
+47-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:29:9-64
+47-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:29:19-52
+48        <activity android:name="com.rotnocse.curehealth.doctor.DoctorProfile" />
+48-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:30:9-58
+48-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:30:19-55
+49        <activity android:name="com.rotnocse.curehealth.doctor.DoctorForm" />
+49-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:31:9-55
+49-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:31:19-52
+50        <activity android:name="com.rotnocse.curehealth.DoctorActivity" />
+50-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:32:9-52
+50-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:32:19-49
+51        <activity android:name="com.rotnocse.curehealth.donor.Information" />
+51-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:33:9-55
+51-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:33:19-52
+52        <activity android:name="com.rotnocse.curehealth.DonorActivity" />
+52-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:34:9-51
+52-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:34:19-48
+53        <activity android:name="com.rotnocse.curehealth.donor.DonorProfile" />
+53-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:35:9-56
+53-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:35:19-53
+54        <activity android:name="com.rotnocse.curehealth.donor.NeedBlood" />
+54-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:36:9-53
+54-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:36:19-50
+55        <activity android:name="com.rotnocse.curehealth.donor.DonorForm" />
+55-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:37:9-53
+55-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:37:19-50
+56        <activity android:name="com.rotnocse.curehealth.healthcalculator.HeartRatesActivity" />
+56-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:38:9-73
+56-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:38:19-70
+57        <activity android:name="com.rotnocse.curehealth.healthcalculator.HealthTipActivity" />
+57-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:39:9-72
+57-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:39:19-69
+58        <activity android:name="com.rotnocse.curehealth.healthcalculator.BMIActivity" />
+58-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:40:9-66
+58-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:40:19-63
+59        <activity android:name="com.rotnocse.curehealth.healthcalculator.Dashboard" />
+59-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:41:9-64
+59-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:41:19-61
+60        <activity android:name="com.rotnocse.curehealth.firstaid.AssessmentInfoBleeding" />
+60-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:42:9-69
+60-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:42:19-66
+61        <activity android:name="com.rotnocse.curehealth.firstaid.main" />
+61-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:43:9-51
+61-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:43:19-48
+62        <activity android:name="com.rotnocse.curehealth.firstaid.MainPage" />
+62-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:44:9-55
+62-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:44:19-52
+63        <activity
+63-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:45:9-54:20
+64            android:name="com.rotnocse.curehealth.Splash"
+64-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:46:13-35
+65            android:label="@string/app_name"
+65-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:47:13-45
+66            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+66-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:48:13-69
+67            <intent-filter>
+67-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:49:13-53:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:50:17-69
+68-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:50:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:52:17-77
+70-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:52:27-74
+71            </intent-filter>
+72        </activity>
+73        <activity
+73-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:55:9-58:72
+74            android:name="com.rotnocse.curehealth.MainActivity"
+74-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:56:13-41
+75            android:configChanges="orientation|keyboardHidden|screenSize"
+75-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:57:13-74
+76            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+76-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:58:13-69
+77        <!--
+78            service
+79            android:name=".AlarmService"
+80            android:enabled="true" /
+81        -->
+82        <receiver
+82-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:64:9-70:20
+83            android:name="com.rotnocse.curehealth.AlarmReceiver"
+83-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:65:13-42
+84            android:enabled="true" >
+84-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:66:13-35
+85            <intent-filter android:priority="1" >
+85-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:67:13-69:29
+85-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:67:28-48
+86                <action android:name="com.cbitss.careforu.BroadcastReceiver" />
+86-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:68:17-80
+86-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:68:25-77
+87            </intent-filter>
+88        </receiver>
+89
+90        <activity
+90-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:72:9-74:72
+91            android:name="com.rotnocse.curehealth.MedRemInfo"
+91-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:73:13-39
+92            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+92-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:74:13-69
+93        <activity
+93-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:75:9-77:72
+94            android:name="com.rotnocse.curehealth.AddReminder"
+94-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:76:13-40
+95            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+95-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:77:13-69
+96
+97        <meta-data
+97-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:79:9-81:69
+98            android:name="com.google.android.gms.version"
+98-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:80:13-58
+99            android:value="@integer/google_play_services_version" />
+99-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:81:13-66
+100        <!--
+101            meta-data android:name="com.google.android.maps.v2.API_KEY"
+102            android:value="AIzaSyDw1UQMuXEpU7MUp4RVqekOoOKTsLvgNec"/
+103        -->
+104        <meta-data
+104-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:86:9-88:71
+105            android:name="com.google.android.geo.API_KEY"
+105-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:87:13-58
+106            android:value="AIzaSyDw1UQMuXEpU7MUp4RVqekOoOKTsLvgNec" />
+106-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:88:13-68
+107
+108        <activity
+108-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:90:9-92:73
+109            android:name="com.rotnocse.curehealth.AlarmActivity"
+109-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:91:13-42
+110            android:theme="@style/Theme.AppCompat.Light.Dialog.Alert" />
+110-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:92:13-70
+111        <activity android:name="com.rotnocse.curehealth.MedInfo" />
+111-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:93:9-45
+111-->/home/maksudurrahman/AndroidStudioProjects/Health Care Project/app/src/main/AndroidManifest.xml:93:19-42
+112
+113        <meta-data
+113-->[com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+114            android:name="android.support.VERSION"
+114-->[com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:24:13-51
+115            android:value="26.1.0" />
+115-->[com.android.support:cardview-v7:26.1.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/dac62d2c432837a455064aa744058d47/cardview-v7-26.1.0/AndroidManifest.xml:25:13-35
+116
+117        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+117-->[com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:5:9-99
+117-->[com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:5:19-97
+118
+119        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+119-->[com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:6:9-103
+119-->[com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:6:18-101
+120        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+120-->[com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:7:9-92
+120-->[com.google.android.gms:play-services-cast-framework:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/8d16e6770cbafaaebacd26ef4bfddef4/play-services-cast-framework-10.2.0/AndroidManifest.xml:7:18-90
+121        <!--
+122 FirebaseMessagingService performs security checks at runtime,
+123             no need for explicit permissions despite exported="true"
+124        -->
+125        <service
+125-->[com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:23:9-27:19
+126            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+126-->[com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:23:18-87
+127            android:exported="true" >
+127-->[com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:23:88-111
+128            <intent-filter android:priority="-500" >
+128-->[com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:24:13-26:29
+128-->[com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:24:28-51
+129                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+129-->[com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:25:17-77
+129-->[com.google.firebase:firebase-messaging:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/9ef034f43cbd6feae99df7740bad21d1/firebase-messaging-10.2.0/AndroidManifest.xml:25:25-75
+130            </intent-filter>
+131        </service>
+132
+133        <activity
+133-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:9-189
+134            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+134-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:19-68
+135            android:excludeFromRecents="true"
+135-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:129-162
+136            android:exported="false"
+136-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:163-187
+137            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+137-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:20:69-128
+138        <!--
+139Service handling Google Sign-In user revocation. For apps that do not integrate with
+140            Google Sign-In, this service will never be started.
+141        -->
+142        <service
+142-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:9-184
+143            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+143-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:18-63
+144            android:exported="true"
+144-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:64-87
+145            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+145-->[com.google.android.gms:play-services-auth:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/b0b18ebc1257b88cef69b72ac6955948/play-services-auth-10.2.0/AndroidManifest.xml:24:88-182
+146        <service
+146-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:9-134
+147            android:name="com.google.android.gms.tagmanager.TagManagerService"
+147-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:18-84
+148            android:enabled="true"
+148-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:110-132
+149            android:exported="false" />
+149-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:24:85-109
+150
+151        <activity
+151-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:25:9-32:20
+152            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+152-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:25:19-93
+153            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+153-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:25:94-118
+154            <intent-filter>
+154-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:26:13-31:29
+155                <data android:scheme="tagmanager.c.com.rotnocse.curehealth" />
+155-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:27:17-71
+155-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:27:23-69
+156
+157                <action android:name="android.intent.action.VIEW" />
+157-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:28:17-68
+157-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:28:25-66
+158
+159                <category android:name="android.intent.category.DEFAULT" />
+159-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:29:17-75
+159-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:29:27-73
+160                <category android:name="android.intent.category.BROWSABLE" />
+160-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:30:17-77
+160-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:30:27-75
+161            </intent-filter>
+162        </activity>
+163
+164        <receiver
+164-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:7-26:18
+165            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+165-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:17-89
+166            android:enabled="true"
+166-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:90-112
+167            android:exported="false" >
+167-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:25:113-137
+168        </receiver>
+169        <receiver
+169-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:7-31:18
+170            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+170-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:17-104
+171            android:enabled="true"
+171-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:162-184
+172            android:permission="android.permission.INSTALL_PACKAGES" >
+172-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:27:105-161
+173            <intent-filter>
+173-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:28:11-30:27
+174                <action android:name="com.android.vending.INSTALL_REFERRER" />
+174-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:29:15-76
+174-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:29:23-74
+175            </intent-filter>
+176        </receiver>
+177
+178        <service
+178-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:7-137
+179            android:name="com.google.android.gms.measurement.AppMeasurementService"
+179-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:16-87
+180            android:enabled="true"
+180-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:88-110
+181            android:exported="false" />
+181-->[com.google.firebase:firebase-analytics:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/7d3ed35c82dc36c3b9bef10a9082627d/firebase-analytics-10.2.0/AndroidManifest.xml:32:111-135
+182
+183        <receiver
+183-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:9-36:20
+184            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+184-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:19-84
+185            android:exported="true"
+185-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:85-108
+186            android:permission="com.google.android.c2dm.permission.SEND" >
+186-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:30:109-169
+187            <intent-filter>
+187-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:31:13-35:29
+188                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+188-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:32:17-80
+188-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:32:25-78
+189                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+189-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:33:17-85
+189-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:33:25-83
+190
+191                <category android:name="com.rotnocse.curehealth" />
+191-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:34:17-60
+191-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:34:27-58
+192            </intent-filter>
+193        </receiver>
+194        <!--
+195 Internal (not exported) receiver used by the app to start its own exported services
+196             without risk of being spoofed.
+197        -->
+198        <receiver
+198-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:40:9-119
+199            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+199-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:40:19-92
+200            android:exported="false" />
+200-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:40:93-117
+201        <!--
+202 FirebaseInstanceIdService performs security checks at runtime,
+203             no need for explicit permissions despite exported="true"
+204        -->
+205        <service
+205-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:44:9-48:19
+206            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+206-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:44:18-82
+207            android:exported="true" >
+207-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:44:83-106
+208            <intent-filter android:priority="-500" >
+208-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:45:13-47:29
+208-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:45:28-51
+209                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+209-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:46:17-79
+209-->[com.google.firebase:firebase-iid:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/5f2ebf611f9564e90eb295d351349568/firebase-iid-10.2.0/AndroidManifest.xml:46:25-77
+210            </intent-filter>
+211        </service>
+212
+213        <provider
+213-->[com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:9-194
+214            android:name="com.google.firebase.provider.FirebaseInitProvider"
+214-->[com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:79-143
+215            android:authorities="com.rotnocse.curehealth.firebaseinitprovider"
+215-->[com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:19-78
+216            android:exported="false"
+216-->[com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:144-168
+217            android:initOrder="100" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+217-->[com.google.firebase:firebase-common:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/4231d4515da1184fee007fe337068e47/firebase-common-10.2.0/AndroidManifest.xml:6:169-192
+218        <activity
+218-->[com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:9-232
+219            android:name="com.google.android.gms.ads.AdActivity"
+219-->[com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:19-71
+220            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+220-->[com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:72-181
+221            android:theme="@android:style/Theme.Translucent" />
+221-->[com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:25:182-230
+222        <activity
+222-->[com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:26:9-131
+223            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+223-->[com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:26:19-91
+224            android:theme="@style/Theme.IAPTheme" />
+224-->[com.google.android.gms:play-services-ads-lite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/93b636c7d0e6352cee04e09a4e3e54b6/play-services-ads-lite-10.2.0/AndroidManifest.xml:26:92-129
+225        <activity
+225-->[com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:9-25:20
+226            android:name="com.google.android.gms.appinvite.PreviewActivity"
+226-->[com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:19-50
+227            android:exported="true"
+227-->[com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:51-74
+228            android:theme="@style/Theme.AppInvite.Preview" >
+228-->[com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:20:75-121
+229            <intent-filter>
+229-->[com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:21:13-24:29
+230                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+230-->[com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:22:17-89
+230-->[com.google.android.gms:play-services-appinvite:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/57ef7ca45cdcdce3a8df76593d88c689/play-services-appinvite-10.2.0/AndroidManifest.xml:22:25-87
+231
+232                <category android:name="android.intent.category.DEFAULT" />
+232-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:29:17-75
+232-->[com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0c71e78cbdad31a25a9add37e0c162aa/play-services-tagmanager-api-10.2.0/AndroidManifest.xml:29:27-73
+233            </intent-filter>
+234        </activity>
+235        <activity
+235-->[com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:9-172
+236            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+236-->[com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:19-85
+237            android:exported="false"
+237-->[com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:146-170
+238            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+238-->[com.google.android.gms:play-services-base:10.2.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/0524de678a90ad40a10fb0bd6ca0ddb0/play-services-base-10.2.0/AndroidManifest.xml:19:86-145
+239
+240        <meta-data
+240-->[android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+241            android:name="android.arch.lifecycle.VERSION"
+241-->[android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:26:13-58
+242            android:value="27.0.0-SNAPSHOT" />
+242-->[android.arch.lifecycle:runtime:1.0.0] /home/maksudurrahman/.gradle/caches/transforms-2/files-2.1/20b42a0f724f163fa692cedada4b36e0/runtime-1.0.0/AndroidManifest.xml:27:13-44
+243    </application>
+244
+245</manifest>
